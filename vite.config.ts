@@ -19,5 +19,5 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: '/BarrettRoman/'
+  base: 'barrettroman.github.io'
 }));
