@@ -18,18 +18,16 @@ const Index = () => {
         <div className="mb-8">
           <Camera className="w-16 h-16 mx-auto mb-6 text-white" />
           <h1 className="text-6xl font-bold mb-4 bg-gradient-to-r from-white to-gray-300 bg-clip-text text-transparent">
-            Alex Morgan
+            Barrett Roman
           </h1>
           <p className="text-2xl text-gray-300 mb-8">
-            Photography & Digital Art Portfolio
+            Photography & Art Portfolio
           </p>
         </div>
         
         <div className="mb-12">
           <p className="text-lg text-gray-400 max-w-2xl mx-auto leading-relaxed">
-            Capturing life's most beautiful moments through the lens of creativity. 
-            Explore my journey through portrait photography, stunning landscapes, 
-            street photography, and digital art creations.
+            "I got an ant farm. They didn't grow shit." - Mitch Hedberg
           </p>
         </div>
         
