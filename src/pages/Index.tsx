@@ -21,13 +21,13 @@ const Index = () => {
             Barrett Roman
           </h1>
           <p className="text-2xl text-gray-300 mb-8">
-            Photography & Art Portfolio
+            Photography & Digital Art Portfolio
           </p>
         </div>
         
         <div className="mb-12">
-          <p className="text-lg text-gray-400 max-w-2xl mx-auto leading-relaxed">
-            "I got an ant farm. They didn't grow shit." - Mitch Hedberg
+          <p className="text-gray-300 italic text-xl">
+            "Never regret anything, because at one point it was exactly what you wanted."
           </p>
         </div>
         
